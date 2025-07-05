@@ -1,5 +1,5 @@
 #  Aishwarya Hulle  
- Full-Stack Developer | AI Enthusiast |  Engineering Student
+ Full-Stack Developer | AI Enthusiast |  Student
 
 ---
 
@@ -24,9 +24,7 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy)
 
-### Dev Tools
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
+### Dev Tool
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
 
 ---
